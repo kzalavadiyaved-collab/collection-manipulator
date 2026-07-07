@@ -105,37 +105,6 @@ students = {
 5. Delete Student
 6. Show Unique Subjects
 7. Exit
-```
-
----
-
-# 📥 Input
-
-Example:
-
-```
-Enter Student ID : 101
-Enter Name : Rahul
-Enter Age : 20
-Enter Grade : A
-Enter DOB : 12-05-2005
-Enter Subjects : Python,Java,C++
-```
-
----
-
-# 📤 Output
-
-```
------------------------------
-Student ID : 101
-Name       : Rahul
-Age        : 20
-Grade      : A
-DOB         : 12-05-2005
-Subjects   : Python, Java, C++
------------------------------
-```
 
 ---
 
