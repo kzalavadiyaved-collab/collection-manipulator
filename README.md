@@ -204,6 +204,8 @@ del students[101]
 - VS Code / PyCharm / IDLE
 
 ---
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)]()
+
 
 # 📁 Project Structure
 
@@ -213,31 +215,8 @@ Student-Data-Organizer/
 ├── main.py
 ├── README.md
 └── screenshots/
+
 ```
-
----
-
-# ▶️ How to Run
-
-Clone the project
-
-```bash
-git clone <repository-url>
-```
-
-Go to project folder
-
-```bash
-cd Student-Data-Organizer
-```
-
-Run
-
-```bash
-python main.py
-```
-
----
 
 # 📚 Python Concepts Covered
 
