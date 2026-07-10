@@ -173,7 +173,7 @@ del students[101]
 - VS Code / PyCharm / IDLE
 
 ---
-[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)]()
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1R8KoOQaT0SF0d1cjyGDrNKUo56d0MAgK/view?usp=drive_link)
 
 
 # 📁 Project Structure
