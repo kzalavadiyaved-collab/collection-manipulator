@@ -175,6 +175,18 @@ del students[101]
 ---
 [![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1R8KoOQaT0SF0d1cjyGDrNKUo56d0MAgK/view?usp=sharing)
 
+# Output of code
+<img width="566" height="472" alt="image" src="https://github.com/user-attachments/assets/292ff7c1-7f3f-4c64-91b9-4786bcef2ecc" /> <br>
+<img width="402" height="275" alt="image" src="https://github.com/user-attachments/assets/353cda88-1801-4ca4-956b-782e9b1fd7b8" /> <br> 
+<img width="427" height="94" alt="image" src="https://github.com/user-attachments/assets/5a346d88-af29-4002-aab3-9e993e86f8bb" /> <br>
+<img width="422" height="297" alt="image" src="https://github.com/user-attachments/assets/a94afa7c-43ae-4705-9b0f-506b830233ef" /> <br>
+<img width="402" height="385" alt="image" src="https://github.com/user-attachments/assets/3e31edf0-f687-4053-8f15-069ff1f502bc" /> <br>
+
+
+
+
+
+
 
 # 📁 Project Structure
 
